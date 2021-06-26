@@ -1,0 +1,10 @@
+node_modules/
+
+.env
+
+pk.pem
+cert.pem
+
+plugins/*
+
+*.bundle
